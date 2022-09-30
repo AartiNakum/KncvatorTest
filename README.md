@@ -1,5 +1,5 @@
 # KncvatorTest
-i have create user and categories using seeder or you can create user using laravel registration.
+i have create user and categories using seeder or you can create user using laravel registration. Run Seeder
 i have use sanctum token for user 
 http://127.0.0.1:8000/api/login  => enter email and password and send request so you can get Bearer Token
 => pass the Bearer Token in below all request if you have use new tab
